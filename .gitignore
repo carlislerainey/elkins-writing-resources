@@ -1,0 +1,11 @@
+# macOS system file
+.DS_Store
+
+# RStudio project files
+*.Rproj
+*.Rproj.user/
+
+
+# Microsoft Word temporary files
+~$*
+~*.tmp

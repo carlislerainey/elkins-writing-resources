@@ -1,0 +1,70 @@
+# Elkin’s Writing Resources
+
+
+## Motivation
+
+Zach Elkins has collected a [wonderful list of writing
+resources](https://sites.google.com/site/zachelkinstexas/me-write-pretty-some-day).
+I made an [archive.md version](https://archive.ph/VMkbp) of his page
+here. I noticed that some of the links were starting to break, so I
+decided to grab as much of the material as I could. It’s too important
+to lose.
+
+## Process
+
+I did the following:
+
+1.  Downloaded all the documents with working links. Many of these were
+    Dropbox links.
+2.  Converted the `.doc` and `.docx` (and one `.html`) files to `.pdf`
+    for consistency. I kept the original versions.
+3.  I created [archive.md](https://archive.md) links for the webpages.
+
+I made a table below summarizing the documents I was able to find and
+save for myself.
+
+## The Papers!
+
+| Author | Title | Working Link | My Preserved Version | Original Link |
+|----|----|----|----|----|
+| Dan Brinks | Presenting and Offering Feedback on Colleagues’ Papers | Y | [here](original-documents/brinks%20feedback.pdf) | [here](https://www.dropbox.com/scl/fi/m76cibwyzi5y0m5uzeo3j/brinks-feedback.docx?rlkey=00pyny30klcillgg898u5l5ae&e=1&dl=0) |
+| David Collier | Notes on Writing and Editing | Y | [here](original-documents/collier%20Notes%20on%20Writing.pdf) | [here](https://www.dropbox.com/scl/fi/udednyixke0r10tkn8rhs/collier-Notes-on-Writing.doc?rlkey=9f8k0ox0bor3c48bfqwhcm14t&e=1&dl=0) |
+| John Gerring with Joshua Yesnowitz and Stephen Bird | General Advice on Social Science Writing | Y | [here](original-documents/Gerring_Adviceonessaywriting.pdf) | [here](https://www.dropbox.com/scl/fi/f5cctqw8t9i1famge79ts/Gerring_Adviceonessaywriting.pdf?rlkey=6r0iir5nww4pet2o8ntza0ibn&e=1&dl=0) |
+| George Lakoff | What Orwell Didn’t Know: Propaganda and the New Face of American Politics | Y | [here](original-documents/lakoff07%20on%20orwell.pdf) | [here](https://www.dropbox.com/scl/fi/ulgqgiioh7nobazq2z09g/lakoff07-on-orwell.pdf?rlkey=vstoy5cjqv9xa338axjerunb5&e=1&dl=0) |
+| Craig Loehle | A Guide to Increased Creativity in Research—Inspiration or Perspiration? | Y | [here](original-documents/loehle90.pdf) | [here](https://www.dropbox.com/scl/fi/ud4m8vdy36zqoh5s82b90/loehle90.pdf?rlkey=lzj4c61ktl4alhsav1agx9ph8&e=1&dl=0) |
+| Robert C. Luskin | Robert’s Rules: Suggestions for Writing | Y | [here](original-documents/Robert's%20Rules%20January%2008.pdf) | [here](https://www.dropbox.com/scl/fi/xp3f1x93bvoy49lytfu3i/Robert-s-Rules-January-08.doc?rlkey=8gvr1cn4hgqwibfzgh20ng21t&e=1&dl=0) |
+| John McIver | Editing 101 | Y | [here](original-documents/mciver%20Editing%20101.pdf) | [here](https://www.dropbox.com/scl/fi/89bef5ka3u3ps4rixgshk/mciver-Editing-101.doc?rlkey=n2ahc9sdsselxl5rh68jum5y3&e=1&dl=0) |
+| Richard E. Nisbett | The Anticreativity Letters: Advice From a Senior Tempter to a Junior Tempter | Y | [here](original-documents/nisbett02.pdf) | [here](https://www.dropbox.com/scl/fi/wt6am4pnqruwy3cz2c141/nisbett02.pdf?rlkey=8kerft7q17znxvw6otofaakcp&e=1&dl=0) |
+| George Orwell | Politics and the English Language | N, but [here](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/) |  |  |
+| Lorraine Pangle | Checklist for Paper Writing | Y | [here](original-documents/lpangle%20essay%20checklist.pdf) | [here](https://www.dropbox.com/scl/fi/k7mwdesjwjf3mbyw2pk43/lpangle-essay-checklist.doc?rlkey=yq0qfjnoy67cl4889rsko43jt&e=1&dl=0) |
+| Bartholomew Sparrow | Notes on Style | Y | [here](original-documents/sparrow%20notes%20on%20style.pdf) | [here](https://www.dropbox.com/scl/fi/bzpsrinz29lkmq8nkvpvn/sparrow-notes-on-style.doc?rlkey=w2ahrn4ev3bgfpxoi74d8n7fr&e=1&dl=0) |
+| Bill Starbuck | Fussy Prof’s Cookbook for Ambitious Academic Authors | Y | [archive.md](https://archive.md/M2GOb) | [here](https://pages.stern.nyu.edu/~wstarbuc/Writing/Fussy.htm) |
+| Devin Stauffer | Writing Guidelines | Y | [here](original-documents/devin%20stauffer-writing%20guidelines.pdf) | [here](https://www.dropbox.com/scl/fi/vkt5wre915v1cqlqy1j76/devin-stauffer-writing-guidelines.doc?rlkey=g2fugz5gryn85m76byg1e7xqj&e=1&dl=0) |
+| Jim Stimson | Professional Writing in Political Science: A Highly opinionated Essay | Y | [here](original-documents/stimson%20writing.pdf) | [here](https://www.dropbox.com/scl/fi/ed86cilk9dtjuzbhvu9ki/stimson-writing.pdf?rlkey=uxr0kcqwlaztphfee1g0bjqfp&e=1&dl=0) |
+| Barry Weingast | Structuring your Papers (Caltech rules) | Y | [here](original-documents/caltech_rules.pdf) | [here](https://www.dropbox.com/scl/fi/rvxg64gk7eyv95yeb0mnk/caltech_rules.pdf?rlkey=c9ttrmt4uvedzns9ih6wm96ou&e=1&dl=0) |
+| Raymond Wolfinger | Tips for Writing Papers | Y | [here](original-documents/WolfingerAdvice.pdf) | [here](https://www.dropbox.com/scl/fi/gnlljai1qpwfwxa3bzgut/WolfingerAdvice.pdf?rlkey=8k8tkwksj10ygzm6qrkpk7vxv&e=1&dl=0) |
+| Ken Greene | How to Get ’Em: A Few Guidelines for Government Graduate Students | Y | [here](original-documents/greene%20Grant%20Writing%20Guidelines%20for%20grad%20students.pdf) | [here](https://www.dropbox.com/scl/fi/9p63fcn5lrsw5rd8c088l/greene-Grant-Writing-Guidelines-for-grad-students.doc?rlkey=89vd7sbn5piuvy0dy8oseimlm&e=1&dl=0) |
+| Ken Greene | Some guidelines for writing a book review | Y | [here](original-documents/greene%20book%20review%20guidelines.pdf) | [here](https://www.dropbox.com/scl/fi/wl1rr4ue8dwpo0371n9fc/greene-book-review-guidelines.docx?rlkey=bhde8jm21bgow2mtyqne43358&e=1&dl=0) |
+| David Jarmul | How to write an op-ed article | N |  |  |
+| Greg Mankiw | How to Write Well in Economics | Y | [archive.md](https://archive.md/W0my0) | [here](https://gregmankiw.blogspot.com/2006/10/how-to-write-well.html) |
+| Donald McCloskey | Economical Writing | Y | [here](original-documents/mcloskey%20Economical%20Writing%20elkins%20comments.pdf) | [here](https://www.dropbox.com/scl/fi/pp5pbiuoo9dc7o6femv33/mcloskey-Economical-Writing-elkins-comments.pdf?rlkey=qojw0dy47h4a4kcwg54dcr7h2&e=1&dl=0) |
+| Lorraine Pangle | How to Write a Good Interpretive Essay in Political Philosophy | Y | [here](original-documents/lpangle%20essay%20writing%20advice.pdf) | [here](https://www.dropbox.com/scl/fi/10mafdcbzhb6vib51k3vn/lpangle-essay-writing-advice.doc?rlkey=2j1mgbmrgykwg50me8fwmo8eh&e=1&dl=0) |
+| Adam Przeworski and Frank Solomon | On the Art of Writing Proposals | Y | [here](original-documents/przeworski%20solomon%20art%20of%20writing.pdf) | [here](https://www.dropbox.com/scl/fi/7iicky5byl1ac3xs4h6u7/przeworski-solomon-art-of-writing.pdf?rlkey=vbxenmcphsdqml003p2vpr6qo&e=1&dl=0) |
+| Wayne Schiess | Writing for the Legal Audience | N |  |  |
+| Philippe Schmitter | The Ideal Research Proposal | Y | [here](original-documents/schmitterIdealResearchProposal.pdf) | [here](https://www.dropbox.com/scl/fi/hapkn1syfkh8oiyzriui7/schmitterIdealResearchProposal.pdf?rlkey=dxih812d070lewp17wylnk5p5&e=1&dl=0) |
+| Hal Varian | How to Build an Economic Model in Your Spare Time | Y | [here](original-documents/varian97.pdf) | [here](https://www.dropbox.com/scl/fi/ywuoxkiou126vjsqop6c2/varian97.pdf?rlkey=9vjkr0pd6m2dt2sd925qtrrs8&e=1&dl=0) |
+| Eugene Volokh | Academic Legal Writing | Y | [here](original-documents/volokh.pdf) | [here](https://www.dropbox.com/scl/fi/x6a9wa4ir25nwizynbenn/volokh.pdf?rlkey=k2tt0ux7ldhhd3fwc8jaxhamp&e=1&dl=0) |
+| Jack Goldsmith | Successful Student Online Legal Writing | N |  |  |
+| John Sides | The Political Scientist as a Blogger | N |  |  |
+| Monkey Cage | Guest Post Guidelines | Y | [here](original-documents/Monkey%20Cage%20Guest%20Post%20Guidelines.pdf) | [here](https://www.dropbox.com/scl/fi/jmczjod9xzfv8aapf3nz8/Monkey-Cage-Guest-Post-Guidelines.pdf?rlkey=m3vmwnhqyjo9c7dpp84rhgyds&e=1&dl=0) |
+| Kurt Vonnegut | Despite Tough Guys, Life is not the only School for Real Novelists | Y | [archive.md](https://archive.md/mOLLE) | [here](https://archive.nytimes.com/www.nytimes.com/library/books/052499vonnegut-writing.html) |
+| Kurt Vonnegut | How to Write with Style | Y | [here](original-documents/pc-24-66-vonnegut.pdf) | [here](https://kmh-lanl.hansonhub.com/pc-24-66-vonnegut.pdf) |
+| George Orwell | Why I Write | N; but [here](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/) |  |  |
+| Joan Didion | Why I Write | Y | [archive.md](https://archive.md/xCIgw) | [here](https://genius.com/Joan-didion-why-i-write-annotated) |
+| Annie Dillard | Write Until You Drop. | Y | [archive.md](https://archive.md/mTm5e) | [here](https://archive.nytimes.com/www.nytimes.com/books/99/03/28/specials/dillard-drop.html) |
+| Joan Didion | On Keeping a Notebook | N |  |  |
+| Ward Farnsworth | Farnsworth’s Classical English Rhetoric |  |  |  |
+| Patricia O’Conner | Woe Is I: The Grammarphobe’s Guide to Better English |  |  |  |
+| Strunk & White | The Elements of Style |  |  |  |
+| John Trimble | Writing with Style, Chapter 1 | Y | [here](original-documents/trimble%20chapter%201.pdf) | [here](https://www.dropbox.com/scl/fi/m59v1cosqrppb1kb7mnig/trimble-chapter-1.pdf?rlkey=u07ahqoltcz3lq8zdht1k01v2&e=1&dl=0) |
+| Don Watson | Death Sentences |  |  |  |
