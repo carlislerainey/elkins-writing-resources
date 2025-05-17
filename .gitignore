@@ -9,3 +9,4 @@
 # Microsoft Word temporary files
 ~$*
 ~*.tmp
+.Rproj.user
